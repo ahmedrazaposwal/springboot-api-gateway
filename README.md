@@ -1,5 +1,5 @@
 # springboot-api-gateway
-API gateway in spring boot, to show that how a request redirect towrds its service
+The API Gateway acts as a single entry point that routes incoming client requests to appropriate microservices using service discovery.
 
 ## Local Setup
 
